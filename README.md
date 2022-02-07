@@ -1,6 +1,6 @@
 # password-generator
 
-预览地址：https://mrjooz.github.io/password-generator/
+预览地址：https://mrjooz.github.io/password-generator </br>
 作者：[mrjooz](https://github.com/mrjooz/password-generator/tree/master)
 
 ## password-generator 是什么？
